@@ -1,11 +1,11 @@
 import React, {Component} from 'react';
 import {View, Text, StyleSheet} from 'react-native';
-export default class Homepage extends Component{
+export default class Loginpage extends Component{
 	render(){
 		return (
 			<View style={styles.wrapper}>
 				<View style={styles.tittleWrapper}>
-					<Text style={styles.title}>Carpool BAQ</Text>
+					<Text style={styles.title}>Login page</Text>
 				</View>
 				<View>
 					<Text style={styles.subtitle}>Powered by ----</Text>
