@@ -7,6 +7,7 @@ export default class Loginpage extends Component{
 				<View style={styles.tittleWrapper}>
 					<Text style={styles.title}>Login page</Text>
 				</View>
+				
 				<View>
 					<Text style={styles.subtitle}>Powered by ----</Text>
 				</View>
